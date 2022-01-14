@@ -3,22 +3,12 @@
 This is a solution to the [NFT preview card component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/nft-preview-card-component-SbdUL_w0U). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
 ## Table of contents
-
-- [Overview](#overview)
   - [The challenge](#the-challenge)
   - [Screenshot](#screenshot)
   - [Links](#links)
-- [My process](#my-process)
   - [Built with](#built-with)
-  - [What I learned](#what-i-learned)
-  - [Continued development](#continued-development)
-  - [Useful resources](#useful-resources)
 - [Author](#author)
 - [Acknowledgments](#acknowledgments)
-
-**Note: Delete this note and update the table of contents based on what sections you keep.**
-
-## Overview
 
 ### The challenge
 
@@ -30,18 +20,14 @@ Users should be able to:
 ### Screenshot
 
 Desktop:
-
-./screenshots/Screenshot1.png
+![Screenshot1](https://user-images.githubusercontent.com/91204022/149536398-e400a4e5-ad01-449e-98b3-76575232026f.png)
 
 Actions:
 ![Screenshot2](https://user-images.githubusercontent.com/91204022/149535695-efd94c2f-c44b-4283-b009-ea332bb522ac.png)
-(./screenshots/Screenshot2.png)
 
 ### Links
 
 - Solution URL: https://shaharajahfer.github.io/Frontend-Mentor---NFT-preview-card/
-
-## My process
 
 ### Built with
 
@@ -52,4 +38,4 @@ Actions:
 
 ## Author
 
-- Frontend Mentor - [@Shaharajahfer](https://www.frontendmentor.io/profile/Shaharajahfer)
+- Frontend Mentor - @Shaharajahfer(https://www.frontendmentor.io/profile/Shaharajahfer)
