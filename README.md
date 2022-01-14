@@ -34,8 +34,8 @@ Desktop:
 ./screenshots/Screenshot1.png
 
 Actions:
-![![Screenshot2](https://user-images.githubusercontent.com/91204022/149535334-a259d499-0c9d-4ace-b1ef-c0d93d98a7d2.png)
-](./screenshots/Screenshot2.png)
+![Screenshot2](https://user-images.githubusercontent.com/91204022/149535695-efd94c2f-c44b-4283-b009-ea332bb522ac.png)
+(./screenshots/Screenshot2.png)
 
 ### Links
 
