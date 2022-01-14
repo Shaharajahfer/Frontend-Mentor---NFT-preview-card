@@ -38,4 +38,4 @@ Actions:
 
 ## Author
 
-- Frontend Mentor - @Shaharajahfer(https://www.frontendmentor.io/profile/Shaharajahfer)
+- Frontend Mentor - [@Shaharajahfer](https://www.frontendmentor.io/profile/Shaharajahfer)
