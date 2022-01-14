@@ -30,10 +30,12 @@ Users should be able to:
 ### Screenshot
 
 Desktop:
+
 ./screenshots/Screenshot1.png
 
 Actions:
-![](./screenshots/Screenshot2.png)
+![![Screenshot2](https://user-images.githubusercontent.com/91204022/149535334-a259d499-0c9d-4ace-b1ef-c0d93d98a7d2.png)
+](./screenshots/Screenshot2.png)
 
 ### Links
 
@@ -48,7 +50,6 @@ Actions:
 - Flexbox
 - Mobile-first workflow
 
-**Note: These are just examples. Delete this note and replace the list above with your own choices**
 ## Author
 
 - Frontend Mentor - [@Shaharajahfer](https://www.frontendmentor.io/profile/Shaharajahfer)
