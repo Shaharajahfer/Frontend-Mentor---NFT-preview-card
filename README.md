@@ -30,14 +30,14 @@ Users should be able to:
 ### Screenshot
 
 Desktop:
-![](./screenshots/Screenshot1.png)
+./screenshots/Screenshot1.png
 
 Actions:
 ![](./screenshots/Screenshot2.png)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://shaharajahfer.github.io/Frontend-Mentor---NFT-preview-card/)
+- Solution URL: https://shaharajahfer.github.io/Frontend-Mentor---NFT-preview-card/
 
 ## My process
 
