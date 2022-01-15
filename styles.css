@@ -39,7 +39,7 @@ p{
 .attribution a { color: hsl(228, 45%, 44%); }
 .avatar-img{
   margin: 1rem 0.5rem 0.5rem 0;
-  width: 15%;
+  width: 50px;
   border: 2px solid white;
   border-radius: 100%;
 }
@@ -76,9 +76,13 @@ p{
   color: var(--Cyan);
   cursor: pointer;
 }
+.creation{
+  display: flex;
+  align-items: center;
+}
 .creation-text{
   color: var(--Soft-blue);
-  margin: 1rem 0.5rem 0.5rem 0;
+  margin: 0px 5px;
   font-weight: 300;
   font-size: 14px;
 }
