@@ -20,10 +20,10 @@ Users should be able to:
 ### Screenshot
 
 Desktop:
-![Screenshot1](https://user-images.githubusercontent.com/91204022/149536398-e400a4e5-ad01-449e-98b3-76575232026f.png)
+![Screenshot (47)](https://user-images.githubusercontent.com/91204022/149605311-35fecb75-1905-487b-ba2c-1b5784e95a23.png)
 
 Actions:
-![Screenshot2](https://user-images.githubusercontent.com/91204022/149535695-efd94c2f-c44b-4283-b009-ea332bb522ac.png)
+![Screenshot (48)](https://user-images.githubusercontent.com/91204022/149605332-bd6665c3-10a2-48b1-bb1c-0097b50b0b09.png)
 
 ### Links
 
